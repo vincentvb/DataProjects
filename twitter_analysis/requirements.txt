@@ -1,0 +1,4 @@
+TwitterAPI
+google-cloud-language
+pandas
+matplotlib
