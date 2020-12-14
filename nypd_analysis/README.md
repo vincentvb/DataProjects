@@ -20,7 +20,7 @@ pip install -r requirements.txt
 
 ### Running Scripts
 
-You can run the following scripts to either generate the the line graphs, pie graphs, or all of them:
+You can run the following scripts to either generate the line charts, pie charts, or all of them:
 
 ```
 CHART=pie python init.py //generates pie charts
